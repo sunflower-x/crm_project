@@ -7,9 +7,9 @@
         <setting name="logImpl" value="STDOUT_LOGGING"/>
     </settings>
     <typeAliases>
-        <package name=""/>
+        <package name="crm"/>
     </typeAliases>
     <mappers>
-        <package name=""/>
+        <package name="crm"/>
     </mappers>
 </configuration>
